@@ -15,7 +15,7 @@ func main() {
 
 	// there is type inference as well
 
-
+	fmt.Print("Hello!! we can easily use the print statment \n")
 
 	fmt.Println(userage)
 }
